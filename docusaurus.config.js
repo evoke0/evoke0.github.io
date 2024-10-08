@@ -23,6 +23,7 @@ const config = {
   organizationName: 'evoke0', // Usually your GitHub org/user name.
   projectName: 'evoke0.github.io', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
