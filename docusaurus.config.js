@@ -23,7 +23,7 @@ const config = {
   organizationName: 'evoke0', // Usually your GitHub org/user name.
   projectName: 'kalpa-desktop-web-test.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
