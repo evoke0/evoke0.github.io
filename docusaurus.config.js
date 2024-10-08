@@ -13,17 +13,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://kalpa-web.github.io',
+  url: 'https://evoke0.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/kalpa-web.github.io/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'evoke0', // Usually your GitHub org/user name.
-  projectName: 'kalpa-web.github.io', // Usually your repo name.
+  projectName: 'evoke0.github.io', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
